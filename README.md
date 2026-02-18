@@ -71,7 +71,9 @@ From the main dashboard, users can access five main modules:
 - About
 
 **Screenshot:**  
-`0_init2-----`
+<p align="center">
+  <img src="/Images/0_init_2telamain.PNG" width="800">
+</p>
 
 This centralized dashboard improves operational visibility and navigation across the system.
 
@@ -89,10 +91,9 @@ The Installations module allows users to:
 This module ensures structured organization of operational sites and their associated equipment.
 
 **Screenshots:**  
-`1_inst_1`  
-`1_inst_2`  
-`1_inst_3`  
-`1_inst_4`
+<p align="center">
+  <img src="/Images/1_inst_1add.PNG" width="400"> <img src="/Images/1_inst_2edit.PNG" width="600"> <img src="/Images/1_inst_3excl.PNG" width="400"> <img src="/Images/1_inst_4list.PNG" width="600">
+</p>
 
 Each installation serves as a container for:
 
@@ -122,7 +123,10 @@ Users can:
 This ensures detailed technical documentation per installation.
 
 **Screenshot:**  
-`2_manut_1`
+<p align="center">
+  <img src="/Images/2_manut_1opt.PNG" width="600">
+</p>
+
 
 ---
 
@@ -137,8 +141,13 @@ Users can:
 This supports documentation and auditing requirements.
 
 **Screenshots:**  
-`2_manut_2`  
-`2_manut_2rela`
+<p align="center">
+  <img src="/Images/2_manut_2info.PNG" width="700">
+</p>
+
+<p align="center">
+  <img src="/Images/2_manut_2info_rel.PNG" width="500">
+</p>
 
 ---
 
@@ -155,7 +164,9 @@ The system allows creation of maintenance service calls including:
 Additionally, users can generate PDF maintenance history reports per equipment or group of equipment.
 
 **Screenshot:**  
-`2_manut_3`
+<p align="center">
+  <img src="/Images/2_manut_3corr.PNG" width="700">
+</p>
 
 This feature improves traceability and historical record keeping.
 
@@ -172,7 +183,9 @@ Users can:
 This supports proactive maintenance strategies and reduces unexpected failures.
 
 **Screenshot:**  
-`2_manut_4`
+<p align="center">
+  <img src="/Images/2_manut_4prev.PNG" width="700">
+</p>
 
 ---
 
@@ -188,8 +201,9 @@ The Assets module allows:
 This ensures proper tracking of institutional property.
 
 **Screenshots:**  
-`3_pat_1add`  
-`3_pat_2`
+<p align="center">
+  <img src="/Images/3_pat_1add.PNG" width="400"> <img src="/Images/3_pat_2list.PNG" width="600">
+</p>
 
 ---
 
@@ -215,9 +229,17 @@ The maintenance section allows tracking of:
 - Preventive maintenance
 
 **Screenshots:**  
-`4_veic_1`  
-`4_veic_2`  
-`4_veic_3`
+<p align="center">
+  <img src="/Images/4_veic_1add.PNG" width="650">
+</p>
+
+<p align="center">
+  <img src="/Images/4_veic_2manut.PNG" width="500">
+</p>
+
+<p align="center">
+  <img src="/Images/4_veic_3prov.PNG" width="700">
+</p>
 
 This improves fleet lifecycle control and maintenance planning.
 
