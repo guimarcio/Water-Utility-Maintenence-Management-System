@@ -294,6 +294,10 @@ The "About" tab presents:
 - Institutional information about the water utility authority
 - Development details of the application
 
+<p align="center">
+  <img src="/Images/5_sobre.PNG" width="700">
+</p>
+
 ---
 
 # 👨‍💻 Author
