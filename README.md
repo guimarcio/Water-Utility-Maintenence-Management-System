@@ -31,16 +31,21 @@ The entire application was developed independently using Java and SQLite.
 - **Database:** SQLite (local file-based database)
 - **UI Framework:** Java Swing
 - **Persistence:** JDBC
-- **Architecture Pattern:** Layered architecture with DAO pattern
 
-### Architectural Structure
+### Application Structure
 
-- **View Layer** – Swing graphical interfaces  
-- **Controller Layer** – Business rules and application flow  
-- **DAO Layer** – Database communication  
-- **Model Layer** – Domain entities  
+The application follows a modular organization separating domain entities from user interface components.  
 
-The system was designed to maintain separation of concerns and ensure maintainability and scalability.
+- **Presentation Layer (Swing UI)** – Responsible for graphical interfaces and user interaction.
+- **Domain Model** – Java classes representing core entities such as installations, equipment, vehicles, and maintenance records.
+- **Data Access (JDBC)** – SQL operations executed using JDBC to communicate with the SQLite database.
+
+Database operations were implemented directly within parts of the UI event-handling logic, which was a common architectural approach for small to medium-sized desktop applications at the time.
+
+While functional and stable in production use, the architecture could be further improved by introducing a clearer separation between UI logic and persistence logic (e.g., dedicated DAO classes and service layer abstraction).
+
+The system was designed with maintainability and structured database modeling in mind, ensuring reliable data storage and operational consistency.
+
 
 ---
 
