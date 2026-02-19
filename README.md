@@ -295,7 +295,7 @@ The "About" tab presents:
 - Development details of the application
 
 <p align="center">
-  <img src="/Images/5_sobre.PNG" width="700">
+  <img src="/Images/5_sobre.PNG" width="500">
 </p>
 
 ---
@@ -303,7 +303,9 @@ The "About" tab presents:
 # 👨‍💻 Author
 
 Guilherme Márcio de Melo Campos Fonte Bôa
+
 LinkedIn: www.linkedin.com/in/guilherme-marcio-de-melo
+
 Email: guimarcio93@gmail.com
 
 ---
