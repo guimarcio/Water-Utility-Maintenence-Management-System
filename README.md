@@ -51,7 +51,7 @@ When the application starts, it displays the company logo and a fixed login scre
 The authentication mechanism restricts access to authorized personnel only.
 
 **Video Demonstration:**  
-`Video-----`
+https://github.com/user-attachments/assets/68d20f75-cc7e-44e9-8b9f-64e339bc700d
 
 ---
 
